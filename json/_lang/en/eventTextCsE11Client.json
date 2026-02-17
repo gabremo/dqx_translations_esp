@@ -6,16 +6,16 @@
     "「そ…そうおっしゃられましても　ヒメア様！": "E...even if you say that, Lady Himea...!"
   },
   "26": {
-    "「今日は　この学問の村　ツスクルが誇る\n　若き天才　<pc>が……": "Today, the young genius,\n<pc>, the pride of this academic\nvillage of Tsuskuru, could..."
+    "「今日は　この学問の村　ツスクルが誇る\n　若き天才　<pc>が……": "The young genius <pc>, the pride of\nthis village... Today <if_woman>she<else>he<endif> may very well\naccomplish something great."
   },
   "27": {
-    "「長年　待ち望まれた　古代呪文を\n　復活させるかもしれないのですよ？": "What if the long-awaited spell of old could\nreally be revived?"
+    "「長年　待ち望まれた　古代呪文を\n　復活させるかもしれないのですよ？": "Perhaps <if_woman>she<else>he<endif> will finally\nrevive the long-awaited spell of old?"
   },
   "28": {
-    "「滅びた呪文の復活は　今まで\n　誰も成功させることが　できなかった\n　とても　むずかしいこと。": "Restoring a lost spell is an extremely\ndifficult task. No one has ever been able to\npull it off before."
+    "「滅びた呪文の復活は　今まで\n　誰も成功させることが　できなかった\n　とても　むずかしいこと。": "Restoring a lost spell is an extremely\ndifficult task. No one has ever been able to\nsucceed."
   },
   "29": {
-    "「ですが　あの子なら……<pc>なら\n　できるような気がするのです。": "But if it's <pc>...\nI have a feeling that they can do it."
+    "「ですが　あの子なら……<pc>なら\n　できるような気がするのです。": "But if it's <pc>...\nI have a good feeling that <if_woman>she<else>he<endif> can."
   },
   "30": {
     "「………そうですね。": "...I see."
@@ -33,13 +33,13 @@
     "<if_woman>「あとすこし……。<else>「もうすこしだ……。<endif>": "<if_woman>Just a bit longer...<else>Almost there...<endif>"
   },
   "35": {
-    "「この古代呪文が　復活すれば\n　エルトナの大地が　滅ぶ心配はなくなる……。": "If this spell is revived, there'll be no need\nto worry about the land of Eltona's\ndestruction any longer..."
+    "「この古代呪文が　復活すれば\n　エルトナの大地が　滅ぶ心配はなくなる……。": "If this spell is revived, there'll be no need\nto worry about Eltona's destruction\nany longer..."
   },
   "36": {
-    "<if_woman>「いけない！<else>「しまった！<endif>": "<if_woman>Oh dear!<else>No!<endif>"
+    "<if_woman>「いけない！<else>「しまった！<endif>": "<if_woman>Oh no!<else>No!<endif>"
   },
   "37": {
-    "「<pc>さま～～！！\n　もうちょっとだけ　勉強教えて～～～！！": "<pc>!\nCome help me study!!"
+    "「<pc>さま～～！！\n　もうちょっとだけ　勉強教えて～～～！！": "<pc>!\nCan you come and help me study?!"
   },
   "38": {
     "「<pc>さまっ！？": "<pc>?!"
@@ -48,19 +48,19 @@
     "「こ　こういうときは　ええと……": "I-in this situation, I'm supposed to, uh..."
   },
   "40": {
-    "「心臓……　停止……？": "Their heart...stopped...?"
+    "「心臓……　停止……？": "<if_woman>Her<else>His<endif> heart...stopped...?"
   },
   "41": {
-    "「呼吸停止……？？": "Respiratory arrest...??"
+    "「呼吸停止……？？": "Not breathing...?!"
   },
   "42": {
     "「……………………。": "........................"
   },
   "43": {
-    "「ぎゃああああっ　生きてるっ！！！": "GYAAAAAAH, THEY'RE ALIVE!!!"
+    "「ぎゃああああっ　生きてるっ！！！": "GYAAAAAAH, <if_woman>SHE'S<else>HE'S<endif> ALIVE!!!"
   },
   "46": {
-    "「だって　だって　<pc>さまが\n　死んでたのに　生きてるんだもん！": "Butーbut <pc> was dead, and now\nthey're alive!"
+    "「だって　だって　<pc>さまが\n　死んでたのに　生きてるんだもん！": "Butーbut <pc> was dead, and now\n<if_woman>she's<else>he's<endif> alive!"
   },
   "50": {
     "「そんなことより……": "That aside..."
@@ -78,7 +78,7 @@
     "「ふんっ　アサナギのイジワル！": "Hmph. Quit teasing, Asanagi!"
   },
   "56": {
-    "「<pc>さまは　優しいから　いいの！\n　ね～っ　ケキちゃん<heart>": "Well, it's okay because <pc>'s so\nnice! Riiight, Cakey?<heart>"
+    "「<pc>さまは　優しいから　いいの！\n　ね～っ　ケキちゃん<heart>": "Well, it's okay because <pc>'s so\nnice! Riiight, Cakey? <heart>"
   },
   "57": {
     "「とにかく　これが　ボクたちの卒業試験だ。\n　最後の試験で　ボクは　キミに勝つ！": "Anyway, this is our graduation exam.\nI'm going to beat you in the final test!"
@@ -87,16 +87,16 @@
     "「アサナギってば　若葉の試みに\n　受かる気　満々だ……。\n　そうだよね　アサナギも　アタマいいもんね。": "Asanagi is so determined to pass the Trial of\nNew Leaves... Well, he's really smart too, so\nit's no surprise."
   },
   "59": {
-    "「はあ……　私も　いっぱい\n　勉強したんだけどな……。": "Sigh... I've studied so much, but..."
+    "「はあ……　私も　いっぱい\n　勉強したんだけどな……。": "(Sigh)... I've studied so much, but..."
   },
   "60": {
-    "「ふう……。\n　いいなあ　アカシちゃんは\n　まだ　若葉の試みまで　３年もあって……。": "Hmph...\nYou're lucky, Akashi. You still have three\nyears before you attempt the trial..."
+    "「ふう……。\n　いいなあ　アカシちゃんは\n　まだ　若葉の試みまで　３年もあって……。": "Hmph...\nYou're lucky, Akashi. You still have three\nyears before you can do the trial..."
   },
   "61": {
-    "「いや～　いやいや！\n　モズさんじゃあ　ないですか！": "Well, well, well～! If it isn't Mozu!"
+    "「いや～　いやいや！\n　モズさんじゃあ　ないですか！": "Well, well, well... If it isn't Mozu!"
   },
   "62": {
-    "「ところで　モズさん。\n　若葉の試みを受けるのも　３回目でしたよねえ？\n　そろそろ　合格したいですよねえ？": "Say, Mozu. This is the third time you've taken\nthe Trial of New Leaves, right? It's about\ntime you passed, isn't it?"
+    "「ところで　モズさん。\n　若葉の試みを受けるのも　３回目でしたよねえ？\n　そろそろ　合格したいですよねえ？": "Say, Mozu. This is the third time you've taken\nthe Trial of New Leaves, right? Isn't it about\ntime you actually passed?"
   },
   "63": {
     "「そんなあなたに　心強い味方！\n　辞書の中身を　丸ごと覚えられる\n　キュウスケ様の　魔法のクスリは　いかがかな？": "I can be a big help to you! I, the great\nKyusuke, have some magic medicine that'll\nhelp you memorize a whole dictionary!\n<br>\nWell? What do you say?"
@@ -114,7 +114,7 @@
     "「<pc>さん！": "<pc>!"
   },
   "68": {
-    "「これはこれは　学びの庭　創設以来の大天才！ \n　知性の泉　知識の宝庫とうたわれる\n　神童　<pc>さんっ！": "Well, well. The greatest genius since\nthe Garden of Learning's founding! Fountain\nof intellect, trove of knowledge,\n<br>\nand child prodigy: <pc>!"
+    "「これはこれは　学びの庭　創設以来の大天才！ \n　知性の泉　知識の宝庫とうたわれる\n　神童　<pc>さんっ！": "If it isn't the greatest genius since\nthe Garden of Learning's founding! Fountain\nof intellect, trove of knowledge,\n<br>\nand child prodigyー<pc>!"
   },
   "69": {
     "「こんなモン　<pc>さんには\n　まったく　必要のない物ですよ。\n　へっへっへ……。": "This isn't something you'd need at all,\n<pc>.\nHeh-heh-heh..."
@@ -237,7 +237,7 @@
     "「これで　胸のつかえも下りた！\n　<pc>と　意見がひとつになったのじゃ。\n　これほど　心強いことはない。": "What a load off my chest! I've finally come to\na consensus with you.\nNothing could be more reassuring than that."
   },
   "116": {
-    "「<pc>よ。\n　一人前となった　あかつきには\n　ともに　飲み明かそうぞ！": "Hey, <pc>!\nOnce you've got your Mark of Adulthood, let's\ndrink together!"
+    "「<pc>よ。\n　一人前となった　あかつきには\n　ともに　飲み明かそうぞ！": "Hey, <pc>!\nOnce you've got your Mark of Maturity, what\ndo you say we get a drink together?!"
   },
   "117": {
     "「おっと……　今は　知の試練の最中じゃったな。": "Oops. What am I saying, we're still in the\nmiddle of the test."

@@ -33,7 +33,7 @@
     "「これは石版じゃな。\n　今では　石版は不要だが　この石版は\n　宝珠ポイント<%nM_HOUJU_P>Ｐに　変換しておくぞ。\n<end>": "YOU WILL NEVER SEE THIS"
   },
   "120011": {
-    "「わしは　５つの理を学び\n　おのれを究めんとする者たちを　導く者。\n　人呼んで　達人である。\n<br>\n「ふむ……。おぬし　いい目をしておるな。\n　今後も　はげむがよい。いつか　おぬしにも\n　道を示すことになるかもしれんのう。\n<end>": "I am one who learns the five principles, and\nteaches those willing to learn them. I'm\nwhat you call a Master.\n<br>\nHmm.. you have a good eye. You should continue\nto work hard. Maybe one day, I can show you\nthe way.\n<end>"
+    "「わしは　５つの理を学び\n　おのれを究めんとする者たちを　導く者。\n　人呼んで　達人である。\n<br>\n「ふむ……。おぬし　いい目をしておるな。\n　今後も　はげむがよい。いつか　おぬしにも\n　道を示すことになるかもしれんのう。\n<end>": "I am one who learns the five principles, and\nteaches those willing to learn them. I'm\nwhat you call a Master.\n<br>\nHmm...you have a good eye. You should continue\nto work hard. Maybe one day, I can show you\nthe way.\n<end>"
   },
   "120412": {
     "「『達人クエスト』では\n　週に一度　すべての冒険者に向けて\n　５つのクエストを　提示する。\n<br>\n「おぬしは　その中から自分に適したものを\n　ひとつだけ選んで　達成するのじゃ。\n　仲間と協力しても　かまわんぞ。\n<br>\n「みごと　クエストを達成したあかつきには\n　好きな属性の　宝珠を与えよう。\n　ふるって　挑戦するがよい。\n<bw_break>": "With \"Master Quests\", adventurers will be\npresented with 5 quests each week.\n<br>\nYou can choose only one, so choose which\nsuits you best. Also, you may complete it\nwith companions if you so wish.\n<br>\nAfter completing the quest, I will give you\njewels of the attribute of your choice. I hope\nthat you choose to take up this challenge.\n<bw_break>"
@@ -150,7 +150,7 @@
     "「光の宝珠？の　どちらの　詳細を確認するのだ？\n<break>": "Light jewels? Which of these should I\ncheck?\n<break>"
   },
   "341152": {
-    "「わしは　５つの理を学び\n　おのれを究めんとする者たちを　導く者。\n　人呼んで　達人である。\n<br>\n「ふむ……。おぬし　いい目をしておるな。\n　今後も　はげむがよい。いつか　おぬしにも\n　道を示すことになるかもしれんのう。\n<end>": "I am one who learns the five principles, and\nteaches those willing to learn them. I'm\nwhat you call a Master.\n<br>\nHmm.. you have a good eye. You should continue\nto work hard. Maybe one day, I can show you\nthe way.\n<end>"
+    "「わしは　５つの理を学び\n　おのれを究めんとする者たちを　導く者。\n　人呼んで　達人である。\n<br>\n「ふむ……。おぬし　いい目をしておるな。\n　今後も　はげむがよい。いつか　おぬしにも\n　道を示すことになるかもしれんのう。\n<end>": "I am one who learns the five principles, and\nteaches those willing to learn them. I'm\nwhat you call a Master.\n<br>\nHmm...you have a good eye. You should continue\nto work hard. Maybe one day, I can show you\nthe way.\n<end>"
   },
   "341153": {
     "<pipipi_off><speed=0>\n何をしますか？\n<break>": "<pipipi_off><speed=0>\nDo what?\n<break>"

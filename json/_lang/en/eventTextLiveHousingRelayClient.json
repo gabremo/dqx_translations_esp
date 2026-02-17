@@ -258,7 +258,7 @@
     "<attr><feel_happy_lv2><end_attr>「はぁい！　<pc>♪\n　アストルティアの　グローバルスター！\n　リポ……いいえ　リポンちゃんよ！！\n<br>\n「今日は　エイプリルフールだし～\n　アタシの出番かなって♪　バトンちゃんの\n　代わりに　特別なバトン　まわしちゃうわよー！\n<br>\n「まずは！　エイプリルフール特製バトンに\n　書いてあるお題に　答えちゃってー！\n　お題は　見てのお楽しみよ！\n<br>\n「お題に答えてくれたら　幸せのご近所バトンに\n　書かれた住所にある　土地の立て札に\n　それを持っていって　まわしちゃってね！\n<br>\n「幸せのご近所バトンを届ける住所は　\n　この住宅村の　どこかよ～！\n　すっごく　カンタンでしょ♪　\n<br>\n「バトンは　<%nL_MONTH>月<%nL_DAY>日<%nL_HOUR>時までに\n　まわしてね！　どう～？　<pc>！\n　特別なバトン　まわしちゃわない？\n<yesno><case 1><break><case 2><break><case_cancel><break>": "<attr><feel_happy_lv2><end_attr>Yes!<pc>  ♪ Global star of Astoltia! Ripo... No, it's\nRipon! Since it's April Fool's Day, I thought\nit'd be my turn to give you a special baton\n<br>\nto replace your baton! First! First, answer\nthe questions written on the special April\nFool's Day baton! You'll have to wait and\n<br>\nsee! Once you've answered the question, take\nit to the placard at the address written on\nthe Happy Neighborhood Baton and pass it\n<br>\naround! The address to deliver the happy\nneighborhood baton is somewhere in this\nresidential village~! It's so easy, isn't it?\n<br>\nYou have to pass the baton around by\n<%dL_MONTH>Month <%dL_DAY>Day\n<%dL_HOUR>Hours! What do you think?<pc> Oh, my God! Why don't we pass the special\nbaton around?<yesno><case 1><break><case 2><break><case_cancel><break>"
   },
   "139397": {
-    "「さっすが　<pc>！\n　見る目が　あるわね♪\n<bw_break>": "as one would expect<pc> Oh! You have a good eye.<bw_break>"
+    "「さっすが　<pc>！\n　見る目が　あるわね♪\n<bw_break>": "Never doubted you for a second,\n<pc>! You've got a great eye!\n<bw_break>"
   },
   "139398": {
     "<pipipi_off><pc>は\n<%sL_DAIJINAMONO>（だいじなもの）を\n手に入れた！\n<me 60>\n<end>": "<pipipi_off><pc> received\nthe <%sL_DAIJINAMONO> (Key Item)!\n<me 60>\n<end>"
