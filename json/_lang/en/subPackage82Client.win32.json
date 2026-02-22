@@ -3756,19 +3756,19 @@
     "必殺チャージ率0.1%アップ": "Special Charge Rate +0.1%"
   },
   "20625": {
-    "受けるダメージを1軽減": "Reduced Damage Taken +1"
+    "受けるダメージを1軽減": "Damage Taken -1"
   },
   "20641": {
-    "受けるダメージを2軽減": "Reduced Damage Taken +2"
+    "受けるダメージを2軽減": "Damage Taken -2"
   },
   "20657": {
-    "受けるダメージを3軽減": "Reduced Damage Taken +3"
+    "受けるダメージを3軽減": "Damage Taken -3"
   },
   "20673": {
-    "受けるダメージを4軽減": "Reduced Damage Taken +4"
+    "受けるダメージを4軽減": "Damage Taken -4"
   },
   "20689": {
-    "受けるダメージを5軽減": "Reduced Damage Taken +5"
+    "受けるダメージを5軽減": "Damage Taken -5"
   },
   "20705": {
     "発動速度 +5%": "Activation Speed +5%"
@@ -3891,31 +3891,31 @@
     "回復量8%アップ": "Recovery +8%"
   },
   "21220": {
-    "受けるダメージを1%軽減": "Reduced Damage Taken +1%"
+    "受けるダメージを1%軽減": "Damage Taken -1%"
   },
   "21237": {
-    "受けるダメージを2%軽減": "Reduced Damage Taken +2%"
+    "受けるダメージを2%軽減": "Damage Taken -2%"
   },
   "21254": {
-    "受けるダメージを3%軽減": "Reduced Damage Taken +3%"
+    "受けるダメージを3%軽減": "Damage Taken -3%"
   },
   "21271": {
-    "受けるダメージを4%軽減": "Reduced Damage Taken +4%"
+    "受けるダメージを4%軽減": "Damage Taken -4%"
   },
   "21288": {
-    "受けるダメージを5%軽減": "Reduced Damage Taken +5%"
+    "受けるダメージを5%軽減": "Damage Taken -5%"
   },
   "21305": {
-    "受けるダメージを0.5%軽減": "Reduced Damage Taken +0.5%"
+    "受けるダメージを0.5%軽減": "Damage Taken -0.5%"
   },
   "21323": {
-    "受けるダメージを6%軽減": "Reduced Damage Taken +6%"
+    "受けるダメージを6%軽減": "Damage Taken -6%"
   },
   "21340": {
-    "受けるダメージを8%軽減": "Reduced Damage Taken +8%"
+    "受けるダメージを8%軽減": "Damage Taken -8%"
   },
   "21357": {
-    "受けるダメージを10%軽減": "Reduced Damage Taken +10%"
+    "受けるダメージを10%軽減": "Damage Taken -10%"
   },
   "21374": {
     "炎耐性 +2%": "Fire Resistance +2%"
@@ -4308,13 +4308,13 @@
     "ダメージ25アップ": "Damage +25"
   },
   "23251": {
-    "受けるダメージを6軽減": "Reduced Damage Taken +6"
+    "受けるダメージを6軽減": "Damage Taken -6"
   },
   "23267": {
-    "受けるダメージを8軽減": "Reduced Damage Taken +8"
+    "受けるダメージを8軽減": "Damage Taken -8"
   },
   "23283": {
-    "受けるダメージを10軽減": "Reduced Damage Taken +10"
+    "受けるダメージを10軽減": "Damage Taken -10"
   },
   "23300": {
     "敵を倒すとＭＰを2回復": "Killer MP +2"
@@ -7395,7 +7395,7 @@
     "ダメージ300アップ": "Damage +300"
   },
   "48065": {
-    "受けるダメージを12%軽減": "Reduced Damage Taken +12%"
+    "受けるダメージを12%軽減": "Damage Taken -12%"
   },
   "48082": {
     "炎耐性 +12%": "Fire Resistance +12%"
@@ -7476,7 +7476,7 @@
     "射程距離3mアップ": "Effect Range +3m"
   },
   "48486": {
-    "受けるダメージを12軽減": "Reduced Damage Taken +12"
+    "受けるダメージを12軽減": "Damage Taken -12"
   },
   "48503": {
     "敵を倒すとＭＰを6回復": "Killer MP +6"

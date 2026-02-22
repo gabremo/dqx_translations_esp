@@ -1968,7 +1968,7 @@
     "敵を倒すとＭＰを <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>回復": "Defeated Enemies Restore <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka> MP"
   },
   "30997": {
-    "うけるダメージ <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%減": "Reduced Damage Taken <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
+    "うけるダメージ <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%減": "Damage Taken -<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
   },
   "31069": {
     "呪文威力アップの時間が <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>秒増加": "Spell Power ↑ Duration +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>s"
@@ -2037,7 +2037,7 @@
     "魔物を倒すと <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%でためる": "Tension On Monster Defeat <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
   },
   "32549": {
-    "受けるダメージを <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>軽減": "Reduced Damage Taken +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>"
+    "受けるダメージを <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>軽減": "Damage Taken -<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>"
   },
   "32598": {
     "さいだいＨＰとしゅび力 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": "Max HP & Defense +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>"
@@ -3243,7 +3243,7 @@
     "テンション時のダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka><ban>": "Damage During Tension +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka> (PvP×)"
   },
   "58600": {
-    "受けるダメージを<%sB_renkin1>軽減する": "Reduced Damage Taken +<%sB_renkin1>"
+    "受けるダメージを<%sB_renkin1>軽減する": "Damage Taken -<%sB_renkin1>"
   },
   "58625": {
     "行動時 <%sB_renkin1>%で魔力かくせいと早詠みの杖": "Chann. Anger/Fast. Caster On Action <%sB_renkin1>%"
@@ -4140,7 +4140,7 @@
     "敵を倒すとＭＰを ？回復": "Killer MP +?"
   },
   "64604": {
-    "うけるダメージ ？%減": "Reduced Damage Taken ?%"
+    "うけるダメージ ？%減": "Damage Taken -?%"
   },
   "64619": {
     "呪文威力アップの時間が ？秒増加": "Spell Power ↑ Duration +?s"
@@ -4161,7 +4161,7 @@
     "攻撃ダメージの○%回復": "○% Damage As Recovery"
   },
   "64728": {
-    "受けるダメージを ？軽減": "Reduced Damage Taken +?"
+    "受けるダメージを ？軽減": "Damage Taken -?"
   },
   "64746": {
     "ＨＰとしゅび力 +？": "HP & Defense +?"
