@@ -18,7 +18,7 @@
     "<attr><feel_sad_lv3><end_attr>「残念なの～。また来るね～。\n　その時　気が向いたら　まわしてねなの～。": "<attr><feel_sad_lv3><end_attr>That's too bad... then I'll see you again.\nIf you're feeling up to it then, please pass\nit on next time!"
   },
   "126613": {
-    "「今回の　幸せのご近所バトンの　お題はこちら！\n<color_yellow>\n　『<%sL_QUESTION>』\n<color_white>\n　だよ～！　お好きに　答えてほしいの～。\n<bw_break>": "The subject of this time's Happiness\nNeighborhood Baton is this!\n<color_yellow>\n\"<%sL_QUESTION>\"\n<color_white>\nAnswer it however you like!\n<bw_break>"
+    "「今回の　幸せのご近所バトンの　お題はこちら！\n<color_yellow>\n　『<%sL_QUESTION>』\n<color_white>\n　だよ～！　お好きに　答えてほしいの～。\n<bw_break>": "The subject this time is this!\n<color_yellow>\n\"<%sL_QUESTION>\"\n<color_white>\nAnswer it however you like!\n<bw_break>"
   },
   "126614": {
     "「この住宅村の　ご近所さんから\n　幸せのご近所バトンが　まわってきたよ～。\n　<pc>たまにも　まわしてほしいの～！\n<bw_break>": "The neighbors in this residential village\nhave passed on the baton of happiness to\nus...<pc> I want you to spin it for me sometimes!<bw_break>"
@@ -108,7 +108,7 @@
     "<attr><feel_think_lv3><end_attr>「あ　<pc>たま～！\n　幸せのご近所バトンは　もう終わりなの～。\n　また今度くるから　その時は　よろしくなの～。\n<br>\n「じゃあ　幸せのご近所バトンの\n　お導きがあったら　また会いましょうなの～！\n　<pc>たま　ばいばいなの～！": "<attr><feel_think_lv3><end_attr>that (something mentioned before which is distant psychologically or in terms of time)<pc>  Sometimes! The happy neighborhood baton is\nover... I'll be back next time. I'll look\nforward to seeing you then... I'll see you\n<br>\nagain when the happy neighborhood baton leads\nme to you~!<pc> It's so good!"
   },
   "133424": {
-    "「わ～い！　<pc>たま　ありがとなの～！\n　じゃあ　もう一度　あらためて～。\n<br>\n「今回の　幸せのご近所バトンの　お題はこちら！<color_yellow>\n　『<%sL_QUESTION>』<color_white>\n　だよ～！　お好きに　答えてほしいの～。\n<bw_break>": "Yay! Thanks so much!\nLet's try it again!\n<br>\nThe subject of this time's Happiness\nNeighborhood Baton is this!\n<color_yellow>\n\"<%sL_QUESTION>\"\n<color_white>\nAnswer it however you like!\n<bw_break>"
+    "「わ～い！　<pc>たま　ありがとなの～！\n　じゃあ　もう一度　あらためて～。\n<br>\n「今回の　幸せのご近所バトンの　お題はこちら！<color_yellow>\n　『<%sL_QUESTION>』<color_white>\n　だよ～！　お好きに　答えてほしいの～。\n<bw_break>": "Yay! Thanks so much!\nLet's try it again!\n<br>\nThe subject this time is this!\n<color_yellow>\n\"<%sL_QUESTION>\"\n<color_white>\nAnswer it however you like!\n<bw_break>"
   },
   "133425": {
     "「それじゃあ　今度は　この幸せのご近所バトンを\n　次の人に　届けてきてほしいの～。\n<br>\n「届けてほしい住所は\n　<%sL_REGION>住宅村　<%nL_AREA>丁目\n　<%sL_DIVISION>　<%nL_BANTI>番地　なの～！\n<br>\n「届けてほしい住所は　だいじなものにある\n<color_yellow>\n　『幸せのご近所バトン』<color_white>からも\n　確認できるよ～。　\n<br>\n「バトンを届けたら　<%nL_MONTH>月<%nL_DAY>日<%nL_HOUR>時までに\n　あたちに教えてね～！　ここで待ってるから\n　忘れちゃダメなの～！\n<bw_break>": "Now then, I'd like you deliver this baton to\nthe next person, please!\n<br>\nThe address I'd like you to go to is\n<%sL_REGION> Housing, Block <%dL_AREA>,\n<%sL_DIVISION>, House number <%dL_BANTI>!\n<br>\nIf you need to check the address again, you\ncan do so by using the <color_yellow>Happy Neighborhood\nBaton<color_white> from your Key Items!\n<br>\nAfter you deliver it, please let me know by\n<%dL_MONTH>/<%dL_DAY> at <%dL_HOUR>:00 JST.\nI'll be waiting for you!\n<bw_break>"
@@ -144,7 +144,7 @@
     "「あっ　<pc>たま！　お久しぶりなの～！\n　また会えて　すっごく　うれしいの～！\n　これも　幸せのご近所バトンの　お導きなの～！\n<br>\n「また　幸せのご近所バトンを\n　まわしてもらいにきたよ～！": "Oh, <pc>! It's good to see you!\nThe baton has guided me here once again so\nI can pass the baton on to you!"
   },
   "134104": {
-    "「今回の　幸せのご近所バトンの　お題はこちら！\n<color_yellow>\n　『<%sL_QUESTION>』\n<color_white>\n　だよ～！　お好きに　答えてほしいの～。": "The subject of this time's Happiness\nNeighborhood Baton is this!\n<color_yellow>\n\"<%sL_QUESTION>\"\n<color_white>\nAnswer it however you like!\n<bw_break>"
+    "「今回の　幸せのご近所バトンの　お題はこちら！\n<color_yellow>\n　『<%sL_QUESTION>』\n<color_white>\n　だよ～！　お好きに　答えてほしいの～。": "The subject this time is this!\n<color_yellow>\n\"<%sL_QUESTION>\"\n<color_white>\nAnswer it however you like!\n<bw_break>"
   },
   "134436": {
     "幸せのご近所バトンを　届け終わったようだ。\n自宅の前で　待っている\nバトンちゃんに　報告しにいこう！": "I've just finished delivering the\nneighborhood baton of happiness... Let's go\ntell Baton-chan who's waiting for us in front\n<br>\nof her house!"
@@ -153,7 +153,7 @@
     "<attr><feel_happy_lv2><end_attr>「それが　<pc>たまの答えなんだね～！\n　じゃあ　その答えを　幸せのご近所バトンに　\n　書き込んで　いいかなあ～？\n<yesno><case 1><break><case 2><close><case_cancel><close>": "<attr><feel_happy_lv2><end_attr>I see, so that's your answer! If so, can\nI write it down on the Happy Neighborhood\nBaton?<yesno><case 1><break><case 2><close><case_cancel><close>"
   },
   "139360": {
-    "「さっすが　<pc>！\n　見る目が　あるわね♪\n　じゃあ　もう一度　あらためて！\n<br>\n「今回の　幸せのご近所バトンの　お題はこちら！<color_yellow>\n　『<%sL_QUESTION>』<color_white>\n　よー！　お好きに　答えちゃってー！\n<bw_break>": "As expected of you, <pc>! You have\na really good eye! Then, let's try again!\n<br>\nThe subject of this time's Happiness\nNeighborhood Baton is this!\n<color_yellow>\n\"<%sL_QUESTION>\"\n<color_white>\nAnswer it however you like!\n<bw_break>"
+    "「さっすが　<pc>！\n　見る目が　あるわね♪\n　じゃあ　もう一度　あらためて！\n<br>\n「今回の　幸せのご近所バトンの　お題はこちら！<color_yellow>\n　『<%sL_QUESTION>』<color_white>\n　よー！　お好きに　答えちゃってー！\n<bw_break>": "Just as I thought, <pc>! You have\na really good eye! Then, let's try again!\n<br>\nThe subject this time is this!\n<color_yellow>\n\"<%sL_QUESTION>\"\n<color_white>\nAnswer it however you like!\n<bw_break>"
   },
   "139361": {
     "「<%sL_QUESTION>\n<select_se_off>\n<%sL_COMMAND1>\n<select_end><break>": "<%sL_QUESTION>\n<select_se_off>\n<%sL_COMMAND1>\n<select_end><break>"
@@ -276,10 +276,10 @@
     "<attr><feel_sad_lv3><end_attr>「そっか。そりゃ　残念！\n　また今度　バトンちゃんが来た時でも\n　気が向いたら　まわしてね！": "<attr><feel_sad_lv3><end_attr>... That's too bad! Next time Button-chan\ncomes, if you feel like it, please pass it\naround!"
   },
   "139403": {
-    "「今回の　幸せのご近所バトンの　お題はこちら！\n<color_yellow>\n　『<%sL_QUESTION>』\n<color_white>\n　よー！　お好きに　答えちゃってー！\n<bw_break>": "The subject of this time's Happiness\nNeighborhood Baton is this!\n<color_yellow>\n\"<%sL_QUESTION>\"\n<color_white>\nAnswer it however you like!\n<bw_break>"
+    "「今回の　幸せのご近所バトンの　お題はこちら！\n<color_yellow>\n　『<%sL_QUESTION>』\n<color_white>\n　よー！　お好きに　答えちゃってー！\n<bw_break>": "The subject this time is this!\n<color_yellow>\n\"<%sL_QUESTION>\"\n<color_white>\nAnswer it however you like!\n<bw_break>"
   },
   "139404": {
-    "「今回の　幸せのご近所バトンの　お題はこちら！\n<color_yellow>\n　『<%sL_QUESTION>』\n<color_white>\n　よー！　お好きに　答えちゃってー！": "The subject of this time's Happiness\nNeighborhood Baton is this!\n<color_yellow>\n\"<%sL_QUESTION>\"\n<color_white>\nAnswer it however you like!\n<bw_break>"
+    "「今回の　幸せのご近所バトンの　お題はこちら！\n<color_yellow>\n　『<%sL_QUESTION>』\n<color_white>\n　よー！　お好きに　答えちゃってー！": "The subject this time is this!\n<color_yellow>\n\"<%sL_QUESTION>\"\n<color_white>\nAnswer it however you like!\n<bw_break>"
   },
   "139405": {
     "「はぁい♪　<pc>！\n　もう一度　バトンに　書き込んだ答えを\n　書き直すの？\n<yesno 2><case 1><close><case 2><break><case_cancel><break>": "Yes<pc> What? Do you want me to go back and rewrite\nthe answers I wrote on the baton?<yesno 2><case 1><close><case 2><break><case_cancel><break>"
