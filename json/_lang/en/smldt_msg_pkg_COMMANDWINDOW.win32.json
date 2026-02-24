@@ -27,7 +27,7 @@
     "<center>おつかれさまでした。\nこのあとは　どこに戻りますか？<break>": "Thank you for playing!\nWhere would you like to return?<break>"
   },
   "4972": {
-    "<speed=0><%sM_item>を　捨てますか？<yesno2><close>": "<speed=0>Throw away <%sM_item>?<yesno2><close>"
+    "<speed=0><%sM_item>を　捨てますか？<yesno2><close>": "<speed=0>Throw away the <%sM_item>?<yesno2><close>"
   },
   "4973": {
     "<speed=0><%sM_item>を　投げ捨てた！": "<speed=0>Threw away the <%sM_item>!"
@@ -279,7 +279,7 @@
     "<speed=0><%sM_pc>の持ち物が　いっぱいだった！\nかばんを　整理しますか？<yesno>": "<speed=0><%sM_pc>'s bag is full!\nDo you want to organize your bag?<yesno>"
   },
   "13477": {
-    "<speed=0>本当に　<%sM_item>を捨てますか？<yesno>": "<speed=0>Really throw away <%sM_item>?<yesno>"
+    "<speed=0>本当に　<%sM_item>を捨てますか？<yesno>": "<speed=0>Really throw away the <%sM_item>?<yesno>"
   },
   "13478": {
     "<speed=0><%sM_pc>は　<%dM_gold>ゴールドを手に入れた！": "<speed=0><%sM_pc> received <%dM_gold> Gold!"
@@ -1431,7 +1431,7 @@
     "<speed=0>あなたは今\nカジノプレイチケット３枚を　持っていないため\nこの先に　進むことができません。": "<speed=0>You cannot proceed because you do not have 3\ncasino play tickets."
   },
   "28743": {
-    "<speed=0><%sM_item><%sM_plusnum>を　捨てますか？<yesno 2><close>": "<speed=0>Throw away <%sM_item><%sM_plusnum>? <yesno 2><close>"
+    "<speed=0><%sM_item><%sM_plusnum>を　捨てますか？<yesno 2><close>": "<speed=0>Throw away the <%sM_item><%sM_plusnum>? <yesno 2><close>"
   },
   "28744": {
     "<speed=0><%sM_item><%sM_plusnum>は\n今　装備しているものですが\n本当に　捨ててもよいですか？<yesno 2><close>": "<speed=0><%sM_item><%sM_plusnum> is currently equipped.\nAre you sure you want to throw it away?<yesno 2><close>"
@@ -2619,7 +2619,7 @@
     "<speed=0>表示する　かきおきメモが　ありません。": "<speed=0>There are no memos to display."
   },
   "38845": {
-    "<speed=0><%sM_item>を　<%dM_hiki_item_num>個\n捨てますか？<yesno2><close>": "<speed=0>Throw away <%dM_hiki_item_num> <%sM_item>?<yesno2><close>"
+    "<speed=0><%sM_item>を　<%dM_hiki_item_num>個\n捨てますか？<yesno2><close>": "<speed=0>Throw away the <%dM_hiki_item_num> <%sM_item>?<yesno2><close>"
   },
   "38846": {
     "<speed=0><%sM_item>は\n連れている仲間モンスターが　装備していますが\n本当に　捨ててもよいですか？<yesno2><close>": "<speed=0><%sM_item> is equipped by\nthe monster that is with you. Are you sure\nyou want to throw it away?<yesno2><close>"
@@ -4515,7 +4515,7 @@
     "前回と　異なるプラットフォームで\nログインされたため　契約情報が\n更新されました。<br>\n「思い出アルバム」の　使用最大枚数が\n変化していますので　ご注意ください。": "Your subscription information has updated\nbecause you logged into a different platform\nsince your last login.\n<br>\nPlease note that the maximum number of\nphotos savable in the Photo Album has changed."
   },
   "48120": {
-    "<speed=0><%sM_item>を　捨てますか？\nこの手紙は　『郵便局のおもいで私書箱』で\nいつでも　見ることができます。<yesno2><close>": "<speed=0>Throw away <%sM_item>? This\nletter can be viewed at any\ntime at the Post Office.<yesno2><close>"
+    "<speed=0><%sM_item>を　捨てますか？\nこの手紙は　『郵便局のおもいで私書箱』で\nいつでも　見ることができます。<yesno2><close>": "<speed=0>Throw away this letter?\nIt can be viewed again at any time\nat a Post Office.<yesno2><close>"
   },
   "48185": {
     "<speed=0>この同盟コンテンツは　今日の分を\nすでに　クエストでクリアしています。\n時間を置いてから　再びお試しください。": "<speed=0>This alliance content has already\nbeen completed today with a quest. Please\ntry again later."
@@ -4533,7 +4533,7 @@
     "<speed=0>ここでは　<%sB_MY_JACK_NAME>の心は\n使えない！": "<speed=0>You can't use <%sB_MY_JACK_NAME>'s Heart here!"
   },
   "48237": {
-    "<speed=0><%sM_item>を　捨てますか？\nこの手紙は　おもいで私書箱から見られません。\nご注意ください。<yesno2><close>": "<speed=0>Throw away <%sM_item>? You\ncannot view this special letter again at the\nPost Office. Is this okay?<yesno2><close>"
+    "<speed=0><%sM_item>を　捨てますか？\nこの手紙は　おもいで私書箱から見られません。\nご注意ください。<yesno2><close>": "<speed=0>Throw away this letter?\nIt cannot be viewed again once thrown away.\nAre you sure?\n<yesno2><close>"
   },
   "48386": {
     "<speed=0><%sM_item>を　読もうとした！\nしかし　今の職業では　読めなかった。": "<speed=0>You tried reading the <%sM_item>!\nBut your current vocation can't read it!"
