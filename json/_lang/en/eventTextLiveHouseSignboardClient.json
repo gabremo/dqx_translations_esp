@@ -87,7 +87,7 @@
     "今　所有している家を\nこの土地に　移動しますか？\n<yesno><break>": "Would you like to move the house you\ncurrently own to this plot?\n<yesno><break>"
   },
   "50221": {
-    "<%sL_PC_NICK>は　新しい土地を購入し\nこの土地に　引っ越した！\n<br>\n自分の家用のルーラストーンは　自動的に\nこの場所に書き換えられました。前の土地に\n建っていた家は　家キットに戻りました。\n<br><color_yellow>\n引っ越し前の家の中に　配置されていた家具は\n特殊な退避状態となり　新しい家を建てると\n扉メニューの『配置中の家具』から配置できます。\n<br>\nプライベートコンシェルジュを　雇っていた場合\n引っ越し後に　『コンシェルジュ設定』から\n再度　立ち位置をご指示ください。\n<bw_break><color_white>": "<%sL_PC_NICK> has purchased a new plot of\nland and has moved to this location! The\nZoomstone for his house is automatically\n<br>\nrewritten to this location... The house that\nstood on the previous plot of land has\nreverted back to House Kit.<color_yellow>If you have furniture that was in your old\nhouse before you moved, it will be in a\nspecial state of evacuation, and when you\n<br>\nbuild your new house, you will be able to\nplace it under \"Furniture in Place\" in the\ndoor menu... If I've hired a private\n<br>\nconcierge, will I be able to go to \"Concierge\nSettings\" after I've moved to a new home and\ntell them where to...<bw_break><color_white>"
+    "<%sL_PC_NICK>は　新しい土地を購入し\nこの土地に　引っ越した！\n<br>\n自分の家用のルーラストーンは　自動的に\nこの場所に書き換えられました。前の土地に\n建っていた家は　家キットに戻りました。\n<br><color_yellow>\n引っ越し前の家の中に　配置されていた家具は\n特殊な退避状態となり　新しい家を建てると\n扉メニューの『配置中の家具』から配置できます。\n<br>\nプライベートコンシェルジュを　雇っていた場合\n引っ越し後に　『コンシェルジュ設定』から\n再度　立ち位置をご指示ください。\n<bw_break><color_white>": "<%sL_PC_NICK> purchases this new plot\nof land and moves in!\n<br>\nYour house's Zoomstone is automatically\nupdated to use your new plot. Your house\nhas also been returned to a house kit.\n<br>\n<color_yellow>\nAny furniture that was inside your old house\nhas been placed in temporary storage.\n<br>\nYou can access them by using \"Place Furniture\"\nin the door menu.\n<br>\nIf you've hired a Private Concierge, you'll be\nable to place them once more by using\n\"Concierge Settings\".\n<bw_break><color_white>"
   },
   "50222": {
     "家の中の家具は　一度　すべて\n片づけられますが　『配置中の家具』から\nふたたび　配置することができます。\n<br>\nまた　フェンスや地面などの　一部の外装は\n土地のサイズごとに　専用なので\nサイズの異なる土地では　つかえなくなります。": "You can put all the furniture in your house\naway once, but you can put it back in again\nfrom the \"furniture in place\"... Also, some\n<br>\nexterior features, like fences and grounds,\nare specific to each lot size, so they won't\nwork on different sized lots..."
@@ -102,10 +102,10 @@
     "この住宅村には　現在　全部で<%nL_WELCOME_NUM>軒の\nウェルカムハウスがあります。\n<br>\nこの住宅村の　ウェルカムハウスに\n遊びに行きますか？\n<yesno><break>": "There are currently a total of\n<%dL_WELCOME_NUM> welcome houses in this\nresidential village... Would you like to\n<br>\nvisit the welcome house in this residential\nvillage?<yesno><break>"
   },
   "52072": {
-    "前に所有していた土地は\n<%nL_SELL_PRICE>ゴールドで　売却されます。\nこの土地に引っ越して　よろしいですか？\n<yesno 2><break>": "My previous property will sell for\n<%dL_SELL_PRICE> gold. Do you want\nto move to this land?\n<yesno 2><break>"
+    "前に所有していた土地は\n<%nL_SELL_PRICE>ゴールドで　売却されます。\nこの土地に引っ越して　よろしいですか？\n<yesno 2><break>": "Your previous plot will sell for\n<%dL_SELL_PRICE> Gold.\nMove into this plot?\n<yesno 2><break>"
   },
   "52073": {
-    "前に所有していた土地は\n<%nL_SELL_PRICE>ゴールドで　売却されました。": "My previous property was sold for\n<%dL_SELL_PRICE> gold."
+    "前に所有していた土地は\n<%nL_SELL_PRICE>ゴールドで　売却されました。": "Your previous plot is sold for\n<%dL_SELL_PRICE> Gold."
   },
   "52099": {
     "『他の人の家へ』を使えば　この大陸の住宅村で\nウェルカムハウス設定にしている誰かの家の前に\nひとっとびで　行くことができます！\n<br>\nただし　どの家に行くかは　わかりません。\n行く場所は　毎回　変わるので　何度も試して\nいろいろな家に　遊びにいってみてください。\n<bw_break>": "With \"Visit Other People's Homes,\" you can\njump in front of anyone's house that's set up\nas a welcome home in any residential village\n<br>\non this continent! However, you'll never know\nwhich house you're going to... The location\nyou go to will change every time, so try it\n<br>\nagain and again to visit different houses...<bw_break>"
@@ -228,7 +228,7 @@
     "まだ　幸せのご近所バトンは\nまわされている　途中のようだ。\nもうしばらく　待ってみよう！": "The Happy Neighborhood Baton is still being\npassed around. Try waiting a bit longer!"
   },
   "131761": {
-    "現在　新しい土地へ　引っ越し中です。\nすこし　時間がかかることもありますが\nそのまま　しばらく　お待ちください。\n<break>": "We're moving to a new place... It may take\nsome time, but please wait a while...<break>"
+    "現在　新しい土地へ　引っ越し中です。\nすこし　時間がかかることもありますが\nそのまま　しばらく　お待ちください。\n<break>": "Moving is now in progress.\nThis may take some time, so please\nwait a moment.\n<break>"
   },
   "131763": {
     "「こんにちは　<%sL_PC_NICK>さま。\n　レンダーヒルズに　ようこそいらっしゃいました。\n　お引っ越しが　完了いたしました。\n<br>\n「私は　この住宅村の管理を　まかされている\n　管理人の　<%sL_MAID_NAME>と申します。\n　今後　どうぞ　よろしくお願いいたします。\n<br>\n「今後　私どもが　<%sL_PC_NICK>さまの生活を\n　心をこめて　お手伝いさせていただきますので\n　きっと　ご満足いただけると思います。\n<br>\n「<%sL_PC_NICK>さまの家のルーラストーンは\n　この場所に書き換えられました。前の土地に\n　建っていた家は　家キットに戻りました。\n<br><color_yellow>\n「引っ越し前の家の中に　配置されていた家具は\n　特殊な退避状態となり　新しい家を建てると\n　扉メニューの『配置中の家具』から配置できます。\n<br>\n「プライベートコンシェルジュを　雇っていた場合\n　引っ越し後に　『コンシェルジュ設定』から\n　再度　立ち位置をご指示ください。\n<br><color_white>\n「さあ　これから　<%sL_PC_NICK>さまは\n　晴れて　レンダーヒルズの住人です。\n　ここでの生活を　どうぞお楽しみください！": "Hello, <if_woman>Ms.<else>Mr.<endif> <%sL_PC_NICK>.\nWelcome to Lender Hills. Your move went\nswimmingly.\n<br>\nMy name is <%sL_MAID_NAME>, and I am the\nmanager of this residential area. It's a\npleasure to make your acquaintance.\n<br>\nI will do everything I am able to make your\nstay as comfortable as possible, so I hope my\nservices will prove beneficial to you.\n<br>\nYour old plot's Zoomstone has automatically\nupdated to this location, and your house\nhas returned to being a house kit.\n<br><color_yellow>\nThe furniture from your previous home have\nbeen put in special storage. You can place\nthem with \"Place Furniture\" in the menu.\n<br>\nIf you had a Private Concierge prior to\nmoving, please place them again in the\n\"Concierge Settings\".\n<br><color_white>\nYou are now an official resident of Lender Hills,\n<if_woman>Ms.<else>Mr.<endif> <%sL_PC_NICK>.\nPlease enjoy your new life here!"
@@ -315,7 +315,7 @@
     "元の土地に　家が建っている場合\n家キットや　配置している家具庭具も　そのままで　\n引っ越ししますか？\n<select_se_off>\nそのまま引っ越し\n更地に引っ越し\nやめる\n<select_end><break>": "Move your current plot's house kit\nand furniture placements as is to\nyour new plot?\n<select_se_off>\nMove In As Is\nMove In to Empty Plot\nCancel\n<select_end><break>"
   },
   "230842": {
-    "<%sL_PC_NICK>は　新しい土地を購入し\nこの土地に　引っ越した！\n<br>\n自分の家用のルーラストーンは　自動的に\nこの場所に書き換えられました。\n<bw_break>": "<%sL_PC_NICK> has purchased a new plot of\nland and has moved to this location! The\nZoomstones for his house are automatically\n<br>\nrewritten to this location...<bw_break>"
+    "<%sL_PC_NICK>は　新しい土地を購入し\nこの土地に　引っ越した！\n<br>\n自分の家用のルーラストーンは　自動的に\nこの場所に書き換えられました。\n<bw_break>": "<%sL_PC_NICK> purchases this new plot\nof land and moves in!\n<br>\nYour house's Zoomstone is automatically\nupdated to use your new plot.\n<bw_break>"
   },
   "230844": {
     "引っ越し先の土地のサイズが\n家キットより小さいので\nそのまま　引っ越すことが　できません。": "The size of the lot we're moving into is\nsmaller than the house kit, so we can move\nright into..."
@@ -351,7 +351,7 @@
     "本当に　住宅村の家から　マイタウンの\nこの家に　住所を移して　引っ越ししますか？\n<yesno 2>\n<break>": "Are you sure you want to move from a house in\na residential village to this house in My\nTown, moving your address?<yesno 2>\n<break>"
   },
   "246769": {
-    "「<%sL_PC_NICK>さま！\n　マイタウンのご購入　おめでとうございます！\n<br>\n「私　このマイタウンの管理を　まかされている\n　管理人の　<%sL_MAID_NAME>と申します。\n　今後とも　どうぞ　よろしくお願いいたします。\n<br>\n「では　<%sL_PC_NICK>さまが　晴れて\n　地主になられた証として　この場所への\n　ルーラストーンを　進呈させていただきます。\n<br>\n「このルーラストーンは　他の物とは違って\n　記憶場所を　書きかえることが　できません。\n　ご帰宅専用の　特別品になります。\n<end>": "<%sL_PC_NICK> Sir! Congratulations on your\npurchase of My Town! My name is\n<%sL_MAID_NAME> and I'm the manager of this\n<br>\nMytown... I'd like to thank you for your\ncontinued support... As proof that you,\n<%sL_PC_NICK>, are now a landowner, I would\n<br>\nlike to present you with a rune stone to this\nlocation... This rune stone is unlike any\nother... in that it can be rewritten to\n<br>\nremember... It's a special edition for your\nreturn...<end>"
+    "「<%sL_PC_NICK>さま！\n　マイタウンのご購入　おめでとうございます！\n<br>\n「私　このマイタウンの管理を　まかされている\n　管理人の　<%sL_MAID_NAME>と申します。\n　今後とも　どうぞ　よろしくお願いいたします。\n<br>\n「では　<%sL_PC_NICK>さまが　晴れて\n　地主になられた証として　この場所への\n　ルーラストーンを　進呈させていただきます。\n<br>\n「このルーラストーンは　他の物とは違って\n　記憶場所を　書きかえることが　できません。\n　ご帰宅専用の　特別品になります。\n<end>": "Hello, <if_woman>Ms.<else>Mr.<endif> <%sL_PC_NICK>.\nCongratulation on your My Town purchase!\n<br>\nMy name is <%sL_MAID_NAME>, and I am the\nmanager of this My Town. It's a\npleasure to make your acquaintance.\n<br>\nTo commemorate your new home, I would like\nto give you this very special Zoomstone.\n<br>\nThis Zoomstone will bring you straight to your\nhome, but it cannot be rewritten to another\nlocation.\n<end>"
   },
   "246850": {
     "今は　他の家を\n本宅に　設定できません。\n時間を置いてから　再度　お試しください。": "Right now, I can't set the other house as the\nmain residence. Please give it some time and\ntry again."
