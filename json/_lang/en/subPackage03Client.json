@@ -17808,7 +17808,7 @@
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは へいきだった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e is unbothered!"
   },
   "117075": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ころばなかった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e did not fall!"
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ころばなかった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e doesn't fall!"
   },
   "117106": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは すなをふりはらった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e shakes off the sand!"
